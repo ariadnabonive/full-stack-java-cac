@@ -1,5 +1,5 @@
 # full-stack-java-cac
 
-## Prácticas de la segunda etapa del curso full-stack Java Codo a Codo 4.0
+## Segunda etapa del Curso Full-stack Java Codo a Codo 4.0
 
-##2023
+## Marzo 2023
